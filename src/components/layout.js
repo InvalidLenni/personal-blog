@@ -27,7 +27,7 @@ const Layout = ({ location, title, children }) => {
       <footer>
         © {new Date().getFullYear()}, Built with
         {` `}
-        <a href="https://www.gatsbyjs.com">Gatsby</a>
+        <a href="https://www.gatsbyjs.com">Gatsby</a>. <a href="https://twitter.com/intent/tweet?text=I viewed a new blog post on @InvalidLenni blog">Share on Twitter</a>
       </footer>
     </div>
   )
